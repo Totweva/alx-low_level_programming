@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-/*
- * main function
+/**
+ * main - entry point
  *
- * print size of
+ * print message
  *
- * return o
+ * return: 0
  */
 
 int main(void)
