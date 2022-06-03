@@ -16,7 +16,7 @@ int main(void)
 		{
 			putchar((twodigi1 % 10) + '0');
 			putchar((twodigi1 % 10) + '0');
-			putchat(' ');
+			putchar(' ');
 			putchar((twodigi2 % 10) + '0');
 			putchar((twodigi2 % 10) + '0');
 
