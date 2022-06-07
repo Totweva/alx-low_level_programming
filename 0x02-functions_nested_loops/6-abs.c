@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * a function that communtes the absolute value of an interger
+ * _abs that communtes the absolute value of an interger
  *
+ * Return: always 0
  */
 
 int _abs(int n)

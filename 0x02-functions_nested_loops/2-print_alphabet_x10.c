@@ -2,7 +2,7 @@
 
 /**
  * void function
- * print x10 the lowercase alphabet
+ * print_alphabet_x10 the lowercase alphabet
  *
  */
 
@@ -13,7 +13,7 @@ void print_alphabet_x10(void)
 
 	while (count <= 9)
 	{
-		for (ix10 = 'a'; 'a' <= 'z'; 'a'++)
+		for (ix10 = 'a'; 'a' <= 'z'; ix10++)
 		_putchar(ix10);
 
 		_putchar('\n');

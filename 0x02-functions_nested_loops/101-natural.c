@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
+ * main - Entry point
  * list all natural numbers in 1024, that multiples of 3 and 5
  * separeted by commas
- *
+ * Return: 0
  */
 
 int main(void)
