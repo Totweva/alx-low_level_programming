@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * a function that adds two interger and returns the sum

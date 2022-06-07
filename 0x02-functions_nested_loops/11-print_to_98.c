@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * prints all natural numbers from n to 98

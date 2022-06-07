@@ -1,5 +1,4 @@
-#include <ctype.h>
-#include <main.h>
+#include "main.h"
 
 /**
  * prototype function that checks for lowercase
