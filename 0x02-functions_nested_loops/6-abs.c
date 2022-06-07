@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _abs that communtes the absolute value of an interger
- *
+ * _abs - value absolute
+ * @n - the nth to print
  * Return: always 0
  */
 

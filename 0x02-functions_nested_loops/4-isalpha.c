@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isalpha function that checks for alphabet characters
+ * _isalpha - checks alphabet characters
  * @c: letter to check
- * Return 1 if it is else return 0 
+ * Return: 1 if it is else return 0
  */
 
 int _isalpha(int c)

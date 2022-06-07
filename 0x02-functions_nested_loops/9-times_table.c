@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table that prints the 9 times table
+ * times_table - prints the 9 times table
  * Return: always 0
  *
  */
@@ -31,11 +31,11 @@ void times_table(void)
 
 			_putchar((d % 10) + '0');
 
-				if (cone < 9)\
-				{
-					_putchar(',');
-					_putchar(' ');
-				}
+			if (cone < 9)\
+			{
+				_putchar(',');
+				_putchar(' ');
+			}
 		}
 			_putchar('\n');
 	}

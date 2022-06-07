@@ -3,7 +3,6 @@
 /**
  * main - Entry point
  * a program that finds and prints the sum of the even-valued terms
- * does not exceed 4,000,000
  * Return: 0
  */
 

@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_times_table that prints the n times table starting with 0
- * @n is greater than 15 or less than 0, the function will not run
- * Return always zero
+ * print_times_table - prints the n times table starting with 0
+ * @n - is greater than 15 or less than 0, the function will not run
+ * Return: always 0
  *
  */
 

@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * add that adds two interger and returns the sum
+ * add - adds two interger and returns the sum
  *
- * Return: always zero
+ * Return: always 0
  */
 
 int add(int n, int n1)
