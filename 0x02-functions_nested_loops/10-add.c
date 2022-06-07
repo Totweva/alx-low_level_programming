@@ -5,11 +5,7 @@
  *
  */
 
-int add(int, int)
+int add(int n, int n1)
 {
-	int j;
-
-	j = int + int;
-
-	return (j);
+	return (n + n1);
 }
