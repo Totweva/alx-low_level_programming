@@ -2,7 +2,8 @@
 
 /**
  * add - adds two interger and returns the sum
- *
+ * @n: print int n
+ * @n1: print int n1
  * Return: always 0
  */
 

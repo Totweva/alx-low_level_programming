@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - prints the n times table starting with 0
- * @n - is greater than 15 or less than 0, the function will not run
+ * @n: is greater than 15 or less than 0, the function will not run
  * Return: always 0
  *
  */

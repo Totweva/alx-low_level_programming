@@ -2,7 +2,7 @@
 
 /**
  * _abs - value absolute
- * @n - the nth to print
+ * @n: the nth to print
  * Return: always 0
  */
 
