@@ -2,6 +2,7 @@
 
 /**
   * main - prints integer is positive or negative
+  * positive_or_negative: function
   * Return: 0
   */
 
