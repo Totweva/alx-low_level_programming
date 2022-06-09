@@ -29,14 +29,11 @@ int main(void)
 			printf("%d", num);
 		}
 
-		if (num < 100)
-		{
-			printf(" ");
-		}
-		else
-		{
-			printf("\n");
-		}
+		if (num == 100)
+			continue;
+		printf(" ");
+
+		printf("\n");
 	}
 	return (0);
 }
