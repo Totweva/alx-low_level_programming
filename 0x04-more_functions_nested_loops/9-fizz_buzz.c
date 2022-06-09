@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * fizz_buzz - print fizz buzz
+ * fizz_buzz: print fizz buzz
  * Return: 0
  */
 
