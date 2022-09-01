@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * free_dlistint_t - frees allocated space
+ * free_dlistint - frees allocated space
  * @head: point to the head of the list
  */
 

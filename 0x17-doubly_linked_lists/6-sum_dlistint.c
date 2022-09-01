@@ -8,13 +8,12 @@
 
 int sum_dlistint(dlistint_t *head)
 {
-	int sum;
-	dlistint_t *i;
+	int sum = 0;
 
-	if (head == NULL)
-		return (0);
-
-	for (i = head; i != NULL; i = i->next)
-		sum += i->n;
+	while (head)
+	{
+		sum += head->n;
+		head = head->next;
+	}
 	return (sum);
 }
