@@ -1,4 +1,4 @@
-#include "lists.h".
+#include "lists.h"
 
 /**
  * free_dlistint_t - frees allocated space
